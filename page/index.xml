@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 格子的Blog</title>
+    <link>https://blog.mobai.ml/page/</link>
+    <description>Recent content in Pages on 格子的Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 14 Sep 2022 22:10:41 +0800</lastBuildDate><atom:link href="https://blog.mobai.ml/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试作品278</title>
+      <link>https://blog.mobai.ml/page/contact2/</link>
+      <pubDate>Wed, 14 Sep 2022 22:10:41 +0800</pubDate>
+      
+      <guid>https://blog.mobai.ml/page/contact2/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;table-of-contents&#34;&gt;目录&lt;/h1&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#这里是一级标题&#34;&gt;这里是一级标题&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+
+&lt;h1 id=&#34;这里是一级标题&#34;&gt;这里是一级标题&lt;/h1&gt;</description>
+    </item>
+    
+    <item>
+      <title>测试作品mmm</title>
+      <link>https://blog.mobai.ml/page/contact/</link>
+      <pubDate>Wed, 14 Sep 2022 22:10:41 +0800</pubDate>
+      
+      <guid>https://blog.mobai.ml/page/contact/</guid>
+      <description>这篇是我的最新作品，欢迎观看</description>
+    </item>
+    
+  </channel>
+</rss>
