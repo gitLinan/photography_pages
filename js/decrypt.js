@@ -46,6 +46,10 @@ const _click_handler = function (element) {
     let key = location.pathname + ".password." + index;
     storage.setItem(key, password);
     parent.innerHTML = decrypted;
+    //设置密码三天有效期
+    var curtime = new Date().getTime();//获取当前时间
+    curtime += (86400) * 3 * 1000;
+    localStorage.setItem("exp", curtime);
 }
 
 window.onload = () => {
@@ -70,5 +74,12 @@ window.onload = () => {
             let decrypted = _do_decrypt(encrypted, password);
             elements[index].innerHTML = decrypted;
         }
+    }
+
+    // 密码时间过期删除域名下全部localStorage
+    var curtime = new Date().getTime();//获取当前时间
+    let exp = localStorage.getItem("exp");
+    if (exp == null || curtime > exp) {
+        localStorage.clear();
     }
 };
