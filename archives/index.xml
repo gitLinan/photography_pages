@@ -5,6 +5,8 @@
     <link>https://blog.mobai.ml/archives/</link>
     <description>Recent content in Archives on 格子的Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://blog.mobai.ml/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <managingEditor>linan@mobai.ml (孙凯歌)</managingEditor>
+    <webMaster>linan@mobai.ml (孙凯歌)</webMaster><atom:link href="https://blog.mobai.ml/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
